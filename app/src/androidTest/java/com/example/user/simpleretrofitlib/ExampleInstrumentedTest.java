@@ -1,4 +1,4 @@
-package id.zone.andreas_ardi.moviecatz;
+package com.example.user.simpleretrofitlib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("id.zone.andreas_ardi.moviecatz", appContext.getPackageName());
+        assertEquals("com.example.user.simpleretrofitlib", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package id.zone.andreas_ardi.moviecatz;
+package com.example.user.simpleretrofitlib;
 
 import org.junit.Test;
 
